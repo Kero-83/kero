@@ -1,0 +1,8 @@
+#!/bin/bash
+myarg=$1
+flutter create "$myarg"
+cd "$myarg"/
+rm -rf macos
+rm -rf web
+rm -rf linux
+rm -rf test
