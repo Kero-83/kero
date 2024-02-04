@@ -31,7 +31,7 @@ I captured all commands I used with one Screenshot
 # Desktop Environment
 I used GNOME because I feeled like it is easier to reach the look what I want with it but I forgot that GNOME is a VRAM killer :(
 
-Now, I am still using gnome but I installed KDE recently because I found that I can reach the same look with it and for me KDE so powerfull than GNOME, so I am planning to switch KDE in the future.
+Now, I am still using GNOME but I installed KDE recently because I found that I can reach the same look with it and for me KDE so powerfull than GNOME, so I am planning to switch KDE in the future.
 
 And Here's The Current Look of My Desktop
 
