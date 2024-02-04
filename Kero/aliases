@@ -1,0 +1,6 @@
+#!/bin/bash
+alias terminal="gnome-terminal --full-screen && exit"
+alias doc="docker"
+alias tmp="cat /sys/class/thermal/thermal_zone*/temp"
+alias movie="cd ~/Movies\ \&\ Series/"
+alias pictures="cd ~/pictures"
