@@ -28,6 +28,13 @@ I captured all commands I used with one Screenshot
 
 ![Local Image](./steps7-8.png)
 
+# Prompt
+I am using zsh shell with oh-my-zsh (powerlevel10k/powerlevel10k customized) with plugins
+
+And Here's Prompt look
+
+![Local Image](./prompt.png)
+
 # Desktop Environment
 I used GNOME because I feeled like it is easier to reach the look what I want with it but I forgot that GNOME is a VRAM killer :(
 
