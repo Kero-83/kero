@@ -16,3 +16,4 @@ if [ -f "$directory/$filename" ]; then
 else
   echo "File '$filename' does not exist in '$directory'."
 fi
+Hello, Linux
